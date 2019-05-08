@@ -20,7 +20,7 @@
   </build>
   <distributionManagement>
     <snapshotRepository>
-      <id>deployment</id>
+      <id>POC-repo</id>
       <name>Internal Snapshot Releases</name>
       <url>http://35.200.146.29:8081/repository/POC-repo/</url>
     </snapshotRepository>
